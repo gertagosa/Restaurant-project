@@ -4,6 +4,7 @@ h1 {
 
 .logo {
   max-width: 130px;
+  border-radius: 75%;
 }
 body {
   background-image: url(https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/umgxckeq/6ac5ef3e-1231-4d4e-91e5-066b2050a805.jpg);
