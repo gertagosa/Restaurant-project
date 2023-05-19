@@ -10,7 +10,9 @@ h2 {
   font-family: cursive;
 }
 h2 {
-  font-size: 70px;
+  font-size: 50px;
+  padding: 140px 20;
+  margin: 0;
 }
 
 .logo {
