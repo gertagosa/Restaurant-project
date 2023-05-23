@@ -14,8 +14,41 @@ h2 {
   padding: 140px 20;
   margin: 0;
 }
+h3 {
+  font-size: 28px;
+}
 
 .logo {
-  max-width: 130px;
+  max-height: 40px;
   border-radius: 75%;
+}
+
+footer .email-link {
+  color: black;
+  font-size: 24px;
+}
+footer .email-link:hover {
+  color: plum;
+}
+
+footer .social-links a {
+  margin: 0 20px;
+  color: white;
+  background-color: plum;
+  padding: 10px 14px;
+  font-size: 18px;
+  border-radius: 50%;
+  transition: all 100ms ease-in-out;
+}
+footer .social-links a:hover {
+  color: white;
+  background-color: purple;
+}
+footer .contact-box {
+  background-color: plum;
+  padding: 30px;
+  border-radius: 10px;
+}
+footer .contact-box p {
+  margin: 0;
 }
