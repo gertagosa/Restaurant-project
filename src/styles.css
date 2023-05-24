@@ -56,3 +56,10 @@ footer .contact-box p {
 .content-container {
   background: white;
 }
+.body-content {
+  background: wheat;
+}
+.contact-box-page {
+  display: flex;
+  justify-content: space-between;
+}
