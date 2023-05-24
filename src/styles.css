@@ -52,3 +52,7 @@ footer .contact-box {
 footer .contact-box p {
   margin: 0;
 }
+
+.content-container {
+  background: white;
+}
