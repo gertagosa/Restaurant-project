@@ -24,6 +24,7 @@ h3 {
 }
 
 footer .email-link {
+  padding-top: 160px;
   color: black;
   font-size: 24px;
 }
@@ -39,27 +40,4 @@ footer .social-links a {
   font-size: 18px;
   border-radius: 50%;
   transition: all 100ms ease-in-out;
-}
-footer .social-links a:hover {
-  color: white;
-  background-color: purple;
-}
-footer .contact-box {
-  background-color: plum;
-  padding: 30px;
-  border-radius: 10px;
-}
-footer .contact-box p {
-  margin: 0;
-}
-
-.content-container {
-  background: white;
-}
-.body-content {
-  background: wheat;
-}
-.contact-box-page {
-  display: flex;
-  justify-content: space-between;
 }
