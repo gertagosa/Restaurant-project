@@ -68,4 +68,11 @@ main h2 {
 }
 .grid-3-columns-with-first-narrow {
   grid-template-columns: 1fr 2fr 2fr;
+  align-items: end;
+}
+@media (max-width: 900) {
+  .grid {
+    grid-template-columns: 1fr;
+    grid: gap 10px;
+  }
 }
